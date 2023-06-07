@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on job applications
+- 🔭 I’m currently working @outsmartly :)
 - 🌱 I’m currently learning about THREE.js
 - 👯 I’m looking to collaborate on fun projects
 - 💬 Ask me about web accesibility
