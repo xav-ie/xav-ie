@@ -1,9 +1,3 @@
-### Hi there 👋
+# Hi!
 
-- 🔭 I’m currently working @outsmartly :)
-- 🌱 I’m currently learning about THREE.js
-- 👯 I’m looking to collaborate on fun projects
-- 💬 Ask me about web accesibility
-- 📫 How to reach me: email xruiz@bu.edu
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I main Peach in Super Smash Brothers Ultimate 🍑
+I am currently working at @outsmartly where I get to do what I do best.
